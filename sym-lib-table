@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mainboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/mainboard-rescue.lib")(options "")(descr ""))
+  (lib (name "Project_Symbols")(type "KiCad")(uri "${KIPRJMOD}/Project_Symbols.kicad_sym")(options "")(descr ""))
+)
