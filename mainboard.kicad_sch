@@ -2681,7 +2681,7 @@
     (property "Value" "MCP23017_SO" (id 1) (at 122.0344 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:TSSOP-28_8x9.7mm_P0.65mm" (id 2) (at 125.095 187.96 0)
+    (property "Footprint" "Package_SO:TSSOP-28_6.1x9.7mm_P0.65mm" (id 2) (at 125.095 187.96 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" (id 3) (at 125.095 190.5 0)
@@ -3126,7 +3126,7 @@
       (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Library:SS312SAH4-R")
     )
     (path "/1feae217-1d71-4844-9474-f37767f13e6c"
-      (reference "U1") (unit 1) (value "MCP23017_SO") (footprint "Package_SO:TSSOP-28_8x9.7mm_P0.65mm")
+      (reference "U1") (unit 1) (value "MCP23017_SO") (footprint "Package_SO:TSSOP-28_6.1x9.7mm_P0.65mm")
     )
     (path "/dc813488-eaf9-49a2-8951-d7d91abb4600/1c21c6f5-3e71-4be3-bf45-d619c41235dc"
       (reference "U2") (unit 1) (value "MP2696A") (footprint "Library:QFN-21")
